@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervave",
+        "uuid": 10888416,
+        "checksum": "kaikmy"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
